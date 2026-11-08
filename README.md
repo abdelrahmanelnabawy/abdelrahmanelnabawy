@@ -52,7 +52,7 @@ I'm a **Backend Software Engineer** passionate about designing, building, and ma
 
 * GitHub: [@abdelrahmanelnabawy](https://github.com/abdelrahmanelnabawy)
 * LinkedIn: [LinkedIn](https://www.linkedin.com/in/abdelrahman-ibrahim-1897aa392/)
-* Email: [Abdelrahman Alnabawy](abdelrahman.alnabawy@gmail.com)
+* Email: ](abdelrahman.alnabawy@gmail.com](abdelrahman.alnabawy@gmail.com)
 
 ## 😄 Pronouns
 
